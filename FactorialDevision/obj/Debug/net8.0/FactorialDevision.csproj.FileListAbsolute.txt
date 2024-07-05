@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\bin\Debug\net8.0\FactorialDevision.exe
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\bin\Debug\net8.0\FactorialDevision.deps.json
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\bin\Debug\net8.0\FactorialDevision.runtimeconfig.json
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\bin\Debug\net8.0\FactorialDevision.dll
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\bin\Debug\net8.0\FactorialDevision.pdb
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\FactorialDevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\FactorialDevision.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\FactorialDevision.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\FactorialDevision.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\FactorialDevision.dll
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\refint\FactorialDevision.dll
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\FactorialDevision.pdb
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\FactorialDevision.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\FactorialDevision\FactorialDevision\obj\Debug\net8.0\ref\FactorialDevision.dll
